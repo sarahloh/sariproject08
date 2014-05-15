@@ -1,0 +1,14 @@
+{
+  "name": "sari_twitter",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "twitter": "0.2.7",
+    "ws": "0.4.31",
+    "bad-words": "0.0.3"
+  }
+}
